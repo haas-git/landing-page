@@ -1,0 +1,1 @@
+Welcome to my landing page project. Im starting this project on July 25th 2023 with the hopes of displaying my early CSS skills.
